@@ -5,6 +5,7 @@ Honestly I have no idea what to name this
 This is a simple way to replace the need for groups in your Roblox Game, it is not yet usable, although will be shortly. 
 
 The Discord Folder will contain everything you need to setup your Discord Bot for your Server, it will NOT support multiple servers upon release.
+
 The Roblox Folder will contain all scripts you need for Roblox. There will most likely be a Folder with precoded assets that will work with it, which you can easily disable. If a Folder is named with a Service then you should put all contents of it in that Folder. 
 
 # [Features] (Planed) 
