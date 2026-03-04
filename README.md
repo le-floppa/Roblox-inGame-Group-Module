@@ -18,6 +18,6 @@ The Roblox Folder will contain all scripts you need for Roblox. There will most 
 - super cool developer
 
 # [License]
-do what you want, no reselling though because this is free software. 
+View linked license.
 
 # [Provisionary, subject to changes]
